@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mcdonald\'s</string>
+    <string name="hey_welcome">היי שלום!</string>
+    <string name="enter">תלחץ לכניסה</string>
+    <string name="vegeterian">צמחוני</string>
+    <string name="time_date_choose">בבקשה תבחרו שעה ותאריך</string>
+    <string name="big_mac_menu">מאק גדול - המבורגר גבינה כפול עם חסה וחמוצים, מחיר 15</string>
+    <string name="quarter_pounder_menu">קווארטר פאונדר עם גבינה דלוקס - המבורגר עם גבינה כפולה כולל חסה חמוצים ועגבנייה. מחיר 12</string>
+    <string name="coka_cola_menu">קוקה קולה - משקה טעים. מחיר 5</string>
+    <string name="cola_diet_menu">דיאט קוקה קולה - משקה דיאטטי של הקולה. מחיר 5</string>
+    <string name="order_place">לשים הזמנה לחץ</string>
+    <string name="date_btn">תאריך</string>
+    <string name="time_btn">זמן</string>
+    <string name="sit_num_0">0</string>
+    <string name="_1_minus_sit">-1</string>
+    <string name="enter_number_of_people_sit">הכנס את מספר המקומות</string>
+    <string name="_0_sit_beginning">0</string>
+    <string name="_1_plus_sit">+1</string>
+    <string name="reserve_sits_btn">הכנס הזמנה לאחר מילוא</string>
+    <string name="vegeterian_menu">תפריט צמחוני</string>
+    <string name="regular_menu">תפריט רגיל</string>
+    <string name="print_reservation_set_date">ההזמנה שלך היא בתאריך:</string>
+    <string name="error_message">שגיאה</string>
+    <string name="missing_info_message">חסר מידע</string>
+    <string name="at_about_message_print">באזור השעה:</string>
+    <string name="number_of_seats_message">מספר מקומות הישיבה הם:</string>
+    <string name="you_have_chosen_menu_message">אתם בחרתם את ה:</string>
+</resources>

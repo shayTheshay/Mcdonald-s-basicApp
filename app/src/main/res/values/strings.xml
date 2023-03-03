@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">mcdonald\'s</string>
+    <string name="hey_welcome">Hey, welcome!</string>
+    <string name="enter">ENTER</string>
+    <string name="vegeterian">Vegeterian</string>
+    <string name="time_date_choose">Please choose the time and date</string>
+    <string name="big_mac_menu">big mac - a double cheezburger\nwith lettuce and pickles\npriced at 15</string>
+    <string name="quarter_pounder_menu">Quarter pounder with cheeze deluxe\n a big double cheeze hamburger\nwith luttuce puckles\nand tomato\npriced at 12</string>
+    <string name="coka_cola_menu">coka cola - a tasty drink\npriced at 5</string>
+    <string name="cola_diet_menu">diet coka cola - a more diet\nof the cola drink\npriced at 5</string>
+    <string name="order_place">Order place</string>
+    <string name="date_btn">Date</string>
+    <string name="time_btn">Time</string>
+    <string name="sit_num_0">0</string>
+    <string name="_1_minus_sit">-1</string>
+    <string name="enter_number_of_people_sit">Enter number of people</string>
+    <string name="_0_sit_beginning">0</string>
+    <string name="_1_plus_sit">+1</string>
+    <string name="reserve_sits_btn">reserve sits</string>
+    <string name="vegeterian_menu">vegeterian menu</string>
+    <string name="regular_menu">regular menu</string>
+    <string name="print_reservation_set_date">\"your reservation is set on the: \"</string>
+    <string name="error_message">Error</string>
+    <string name="missing_info_message">missing info</string>
+    <string name="at_about_message_print">\"At about: \"</string>
+    <string name="number_of_seats_message">\"the number of seats are: \"</string>
+    <string name="you_have_chosen_menu_message">you have chosen the:</string>
+
+
+</resources>
